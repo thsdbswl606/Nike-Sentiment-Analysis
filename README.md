@@ -55,6 +55,7 @@ This project analyzes consumer sentiment and market performance of **Nike’s su
 
 📊 **Visualization Examples:**  
 ![Graph Example]([Project Report - Nike Shoes.pdf]())  
+Shown on the later pages of the project report
 
 ---
 
