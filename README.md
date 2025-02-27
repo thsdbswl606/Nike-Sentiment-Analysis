@@ -54,7 +54,7 @@ This project analyzes consumer sentiment and market performance of **Nike’s su
 ✔ **Statistical tests confirm** that price and sustainability labels **do not** significantly impact customer engagement.  
 
 📊 **Visualization Examples:**  
-![Graph Example]([main code]())  
+![Graph Example](Project Report - Nike Shoes.pdf]())  
 Shown on the later pages of the project report
 
 ---
