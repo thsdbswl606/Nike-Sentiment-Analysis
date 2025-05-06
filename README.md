@@ -1,5 +1,4 @@
-# nikeshoeproject
-nike shoe analysis project (sustainable vs nonsus) 
+
 # Sentiment Analysis of Nike Shoes Using Machine Learning: BERTopic  
 
 ## 📌 Project Overview  
