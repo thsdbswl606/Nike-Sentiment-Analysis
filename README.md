@@ -17,7 +17,7 @@ This project analyzes consumer sentiment and market performance of **Nike’s su
 - **Customer Reviews**: Extracted using BeautifulSoup from Nike’s website.  
 
 🗂 **Files in this repository:**  
-- `main code` → Full code for web scraping, preprocessing, and analysis.  
+- `` → Full code for web scraping, preprocessing, and analysis.  
 - `cleaned_non_sus_data.csv` → Cleaned dataset of non sustainable shoes used in this analysis.  
 - `cleaned_sus_data.csv` → cleaned dataset of sustainable shoes.
 - all other csv files   →  scraped raw data before preprocessing
@@ -53,7 +53,6 @@ This project analyzes consumer sentiment and market performance of **Nike’s su
 ✔ **Statistical tests confirm** that price and sustainability labels **do not** significantly impact customer engagement.  
 
 📊 **Visualization Examples:**  
-![Graph Example](Project Report - Nike Shoes.pdf]())  
 Shown on the later pages of the project report
 
 ---
