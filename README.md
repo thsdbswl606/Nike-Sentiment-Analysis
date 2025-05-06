@@ -51,7 +51,11 @@ This project analyzes consumer sentiment and market performance of **Nike’s su
 ✔ **Customer sentiment topics** (from BERTopic analysis):  
    - **Sustainable shoes**: Comfort, recycled materials, innovation.  
    - **Non-sustainable shoes**: Classic styles, performance, comfort.  
-✔ **Statistical tests confirm** that price and sustainability labels **do not** significantly impact customer engagement.  
+✔ **Statistical tests confirm** that price and sustainability labels **do not** significantly impact customer engagement.
+
+Customer sentiments focus on comfort and preference regardless of the shoe’s sustainability. Additionally, the alignment between consumer sentiment and product description was strong, suggesting that Nike’s product marketing strategies effectively resonate with consumers. 
+The results suggest that Nike has the opportunity to enhance its investment in sustainable products, aligning more closely with environmental goals and consumer demand.
+
 
 📊 **Visualization Examples:**  
 Shown on the later pages of the project report as it's too much to show here
